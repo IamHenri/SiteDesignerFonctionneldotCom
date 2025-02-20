@@ -1,3 +1,5 @@
+# Site designerfonctionnel.com sous jekyll
+Mise à jour du site avec ce cms.
 # no style, please!
 
 [![Gem Version](https://badge.fury.io/rb/no-style-please.svg)](https://badge.fury.io/rb/no-style-please)
